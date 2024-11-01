@@ -1,0 +1,7 @@
+{
+    "timeout": 3,
+    "thread": 50,
+    "import": "proxies.txt",
+    "export": "proxy.txt",
+    "host": "https://google.com/"
+}
